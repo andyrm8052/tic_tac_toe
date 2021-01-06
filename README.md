@@ -1,4 +1,4 @@
-# tic_tac_toe
+# tic_tac_toe_v1
 Tic Tac Toe using C++
 
 Currently the game is for two players.
